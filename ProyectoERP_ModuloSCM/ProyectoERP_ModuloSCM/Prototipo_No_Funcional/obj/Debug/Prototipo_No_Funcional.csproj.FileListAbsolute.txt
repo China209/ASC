@@ -1,0 +1,12 @@
+C:\Users\cypam\OneDrive\Documents\Visual Studio 2019\Proyectos\ProyectoERP_ModuloSCM\Prototipo_No_Funcional\bin\Debug\Prototipo_No_Funcional.exe.config
+C:\Users\cypam\OneDrive\Documents\Visual Studio 2019\Proyectos\ProyectoERP_ModuloSCM\Prototipo_No_Funcional\bin\Debug\Prototipo_No_Funcional.exe
+C:\Users\cypam\OneDrive\Documents\Visual Studio 2019\Proyectos\ProyectoERP_ModuloSCM\Prototipo_No_Funcional\bin\Debug\Prototipo_No_Funcional.pdb
+C:\Users\cypam\OneDrive\Documents\Visual Studio 2019\Proyectos\ProyectoERP_ModuloSCM\Prototipo_No_Funcional\obj\Debug\Prototipo_No_Funcional.csprojAssemblyReference.cache
+C:\Users\cypam\OneDrive\Documents\Visual Studio 2019\Proyectos\ProyectoERP_ModuloSCM\Prototipo_No_Funcional\obj\Debug\Prototipo_No_Funcional.Mantenimientos.Compras.frmCompras_Principal.resources
+C:\Users\cypam\OneDrive\Documents\Visual Studio 2019\Proyectos\ProyectoERP_ModuloSCM\Prototipo_No_Funcional\obj\Debug\Prototipo_No_Funcional.MDI.frmMDI.resources
+C:\Users\cypam\OneDrive\Documents\Visual Studio 2019\Proyectos\ProyectoERP_ModuloSCM\Prototipo_No_Funcional\obj\Debug\Prototipo_No_Funcional.Properties.Resources.resources
+C:\Users\cypam\OneDrive\Documents\Visual Studio 2019\Proyectos\ProyectoERP_ModuloSCM\Prototipo_No_Funcional\obj\Debug\Prototipo_No_Funcional.csproj.GenerateResource.cache
+C:\Users\cypam\OneDrive\Documents\Visual Studio 2019\Proyectos\ProyectoERP_ModuloSCM\Prototipo_No_Funcional\obj\Debug\Prototipo_No_Funcional.csproj.CoreCompileInputs.cache
+C:\Users\cypam\OneDrive\Documents\Visual Studio 2019\Proyectos\ProyectoERP_ModuloSCM\Prototipo_No_Funcional\obj\Debug\Prototipo_No_Funcional.exe
+C:\Users\cypam\OneDrive\Documents\Visual Studio 2019\Proyectos\ProyectoERP_ModuloSCM\Prototipo_No_Funcional\obj\Debug\Prototipo_No_Funcional.pdb
+C:\Users\cypam\OneDrive\Documents\Visual Studio 2019\Proyectos\ProyectoERP_ModuloSCM\Prototipo_No_Funcional\obj\Debug\Prototipo_No_Funcional.MDI.frmAuxiliar.resources
